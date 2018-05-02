@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "SF";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/SF/SF-Pro-Display-Light.otf") format("otf");
+}
+@font-face {
+  font-family: "SF";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/SF/SF-Pro-Display-Regular.otf") format("otf");
+}
+@font-face {
+  font-family: "SF";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/SF/SF-Pro-Display-Semibold.otf") format("otf");
+}
+@font-face {
+  font-family: "SF";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../fonts/SF/SF-Pro-Display-Bold.otf") format("otf");
+}
+@font-face {
+  font-family: "SF";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/SF/SF-Pro-Display-Heavy.otf") format("otf");
+}
